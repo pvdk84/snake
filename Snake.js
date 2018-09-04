@@ -190,6 +190,7 @@ onkeydown = function (e) {
         movingLeft = false;
     }
 
+	
     if ((key == DOWN_KEY) && (!movingUp)) {
 
         movingDown = true;
