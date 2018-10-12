@@ -1,3 +1,10 @@
 Just a simple snake game in JavaScript.
 
-Waiting to be extended.
+Maybe extend with mamba-like features sometime:
+- high scores
+- coloring
+- tail
+- bonus food
+
+Example:
+- https://github.com/FlopieUtd/mamba
